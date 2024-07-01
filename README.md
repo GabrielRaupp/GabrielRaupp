@@ -7,8 +7,8 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rp-undefined-5800b6262/)
 
 <div>
-<img >![GabrielRaupp GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRaupp&show_icons=true&theme=radical)
-<img>![GabrielRaupp GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRaupp&layout=compact&langs_count&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRaupp&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRaupp&layout=compact&langs_count&theme=dracula"/>
 </div>
 
 
