@@ -9,7 +9,7 @@
 </div>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRaupp&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRaupp&layout=compact&langs_count20&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRaupp&layout=compact&langs_count16&theme=dracula"/>
 </div>
 
 
