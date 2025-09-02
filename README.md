@@ -53,10 +53,10 @@
 
 <div align="center">
   <!-- Troque pelos repositórios que você quiser fixar -->
-  <a href="https://github.com/GabrielRaupp/celeiro-eventos">
+  <a href="https://github.com/GabrielRaupp/TCC_Realmente_Finalizado.git">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=celeiro-eventos&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/GabrielRaupp/automacoes-node">
+  <a href="https://github.com/GabrielRaupp/Portifolio_Teste.git">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=automacoes-node&theme=tokyonight&hide_border=true" />
   </a>
 </div>
