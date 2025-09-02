@@ -52,14 +52,14 @@
 ## ✨ Projetos em destaque
 
 <div align="center">
-  <!-- Troque pelos repositórios que você quiser fixar -->
-  <a href="https://github.com/GabrielRaupp/TCC_Realmente_Finalizado.git">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=celeiro-eventos&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/GabrielRaupp/TCC_Realmente_Finalizado">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=TCC_Realmente_Finalizado&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/GabrielRaupp/Portifolio_Teste.git">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=automacoes-node&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/GabrielRaupp/Portifolio_Teste">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=Portifolio_Teste&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+
 
 ---
 
