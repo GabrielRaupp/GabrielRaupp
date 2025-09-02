@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gabiraupppimentel@gmail.com@">
+  <a href="mailto:gabiraupppimentel@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/raupp.20/">
