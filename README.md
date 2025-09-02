@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gabrielraupp17@gmail.com">
+  <a href="mailto:gabiraupppimentel@gmail.com@">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/gabriel.raupp17/">
+  <a href="https://www.instagram.com/raupp.20/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-rp-undefined-5800b6262/">
