@@ -78,22 +78,7 @@
 
 ## ✨ Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/GabrielRaupp/TCC_Realmente_Finalizado" target="_blank" rel="noreferrer">
-    <img 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=TCC_Realmente_Finalizado&theme=tokyonight&hide_border=true" 
-      alt="Repositório em destaque: TCC_Realmente_Finalizado"
-    />
-  </a>
-  <a href="https://github.com/GabrielRaupp/Portifolio_Teste" target="_blank" rel="noreferrer">
-    <img 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielRaupp&repo=Portifolio_Teste&theme=tokyonight&hide_border=true" 
-      alt="Repositório em destaque: Portifolio_Teste"
-    />
-  </a>
-</div>
+
 
 ---
 
